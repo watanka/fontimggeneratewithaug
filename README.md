@@ -1,7 +1,6 @@
 # FontImgGenerateWithAug
 
 특정 폰트를 사용하여 원하는 문장이나 단어를 Augmentation 기법을 적용시켜서 글자 인식 학습용 데이터로 생성
-![alt](./assets/font_image_generate.png)
 
 ## How to use
 
