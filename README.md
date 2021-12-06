@@ -26,7 +26,3 @@ python generate.py -d dictionary.txt -f fonts.yaml -a augments.yaml -o output
 -   FontImage생성 : https://blog.naver.com/PostView.nhn?blogId=monkey5255&logNo=221594654820&parentCategoryNo=&categoryNo=72&viewDate=&isShowPopularPosts=true&from=search
 -   한국인 이름 : https://koreanname.me/
 -   한국 도로명 : https://www.juso.go.kr/addrlink/addressBuildDevNew.do?menu=mainJusoDb
-
-### Maintainer
-
-**실버**
